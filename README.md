@@ -1,6 +1,5 @@
 [![docs](https://github.com/christides11/hack-n-slash-framework/workflows/Documentation/badge.svg)](https://christides11.github.io/hack-and-slash-framework/)
 [![release](https://img.shields.io/github/release/christides11/hack-n-slash-framework.svg)](https://github.com/christides11/hack-and-slash-framework/releases)
-[![roadmap](https://img.shields.io/badge/roadmap-blue.svg)](https://trello.com/b/Zr16X01b/hnsf)
 
 ## Hack and Slash Framework
 
@@ -8,7 +7,6 @@
 
 ## Current Status: Pre-Alpha
 HnSF is not stable currently, so expect things to change and break.
-The current roadmap can be viewed [here](https://trello.com/b/Zr16X01b/hnsf).
 
 ## Getting Started
 
